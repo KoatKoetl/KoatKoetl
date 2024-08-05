@@ -27,4 +27,5 @@ I'm an Frontend developer. My tech stack for now is React, SCSS/TailwindCSS, Typ
 
 ### 📊 Stats
 
-![](github-readme-stats-git-master-stanislavs-projects-a4269b49.vercel.app/api?username=KoatKoetl&show_icons=true&theme=gruvbox)
+#### Maybe looks poor BUT it's only a START
+![KoatKoetl stats](https://github-readme-stats.vercel.app/api?username=koatkoetl&show_icons=true&theme=gruvbox)
