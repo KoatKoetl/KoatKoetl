@@ -25,7 +25,18 @@ I'm an Frontend developer. My tech stack for now is React, SCSS/TailwindCSS, Typ
 
 #
 
-### 📊 Stats
+### Connect with me
 
+<a href='https://stanislavportfolio.netlify.app' target='blank'><img align="left" alt="Website" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" /></a>
+<a href='https://www.linkedin.com/in/stanislav-suschevici-a4617228a/' target='blank'><img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
+          
+
+</br>          
+
+#
+
+### 📊 Stats
+<!--START_SECTION:activity-->          
 #### Maybe looks poor BUT it's only a START
 ![KoatKoetl stats](https://github-readme-stats.vercel.app/api?username=koatkoetl&show_icons=true&theme=gruvbox)
+<!--END_SECTION:activity-->
