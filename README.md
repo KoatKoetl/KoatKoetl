@@ -1,4 +1,4 @@
-# 🖥️🎨 🇸🇹🇦🇳🇮🇸🇱🇦🇻 💨 🖼️
+# 🖥️ STANISLAV 🎨 💨 🖼️
 
 **`Front-end Developer based in Republic of Moldova`**
 
